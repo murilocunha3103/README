@@ -1,2 +1,2 @@
-Criando um arquivo no branch e depois vou juntar ou melhor atualizar
+Criando um arquivo no branch e depois vou juntar ou melhor atualizar o principal
 
